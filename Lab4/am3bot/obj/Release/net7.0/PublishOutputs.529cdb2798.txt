@@ -1,0 +1,12 @@
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.exe
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.dll
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.deps.json
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.runtimeconfig.json
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.pdb
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\VS_Projects\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Telegram.Bot.dll

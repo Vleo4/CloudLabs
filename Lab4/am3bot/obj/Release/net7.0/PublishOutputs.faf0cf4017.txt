@@ -1,0 +1,12 @@
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.exe
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.dll
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.deps.json
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.runtimeconfig.json
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.pdb
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Study\Cloud\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Telegram.Bot.dll

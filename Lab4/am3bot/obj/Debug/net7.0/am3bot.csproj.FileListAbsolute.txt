@@ -1,0 +1,64 @@
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\appsettings.Development.json
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\appsettings.json
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\am3bot.exe
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\am3bot.deps.json
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\am3bot.runtimeconfig.json
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\am3bot.dll
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\am3bot.pdb
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\VS_Projects\am3bot\am3bot\bin\Debug\net7.0\Telegram.Bot.dll
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.csproj.AssemblyReference.cache
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.AssemblyInfoInputs.cache
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.AssemblyInfo.cs
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.csproj.CoreCompileInputs.cache
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.MvcApplicationPartsAssemblyInfo.cache
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.am3bot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.build.am3bot.props
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.am3bot.props
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.am3bot.props
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\staticwebassets.pack.json
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\staticwebassets.build.json
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\staticwebassets.development.json
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\scopedcss\bundle\am3bot.styles.css
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.csproj.CopyComplete
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.dll
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\refint\am3bot.dll
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.pdb
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\am3bot.genruntimeconfig.cache
+D:\VS_Projects\am3bot\am3bot\obj\Debug\net7.0\ref\am3bot.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\appsettings.json
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\am3bot.exe
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\am3bot.deps.json
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\am3bot.runtimeconfig.json
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\am3bot.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\am3bot.pdb
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\bin\Debug\net7.0\Telegram.Bot.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.csproj.AssemblyReference.cache
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.AssemblyInfoInputs.cache
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.AssemblyInfo.cs
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.am3bot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.build.am3bot.props
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.am3bot.props
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.am3bot.props
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\scopedcss\bundle\am3bot.styles.css
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.csproj.CopyComplete
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\refint\am3bot.dll
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.pdb
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\am3bot.genruntimeconfig.cache
+C:\Users\Oleksiy\OneDrive\Рабочий стол\am3bot\am3bot\obj\Debug\net7.0\ref\am3bot.dll
